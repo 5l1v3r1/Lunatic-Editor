@@ -21,6 +21,7 @@
 - Feel free to fix/edit this thing 
 - https://discord.gg/dm96sgkafP
 - https://cracked.io/NamiWoiiii
+- https://patched.to/User/nami
 
 ### Donate
 - LTC
