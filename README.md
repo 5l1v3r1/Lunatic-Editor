@@ -17,6 +17,6 @@
       - Change the first letter to Upper case/lower case letter
       - strip symbols or numbers
 	  
-###Note
+### Note
 - Only  For Personal Use and Do not expect something good.
 - Feel free to fix/edit this thing 
