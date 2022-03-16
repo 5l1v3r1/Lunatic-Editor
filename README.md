@@ -19,3 +19,5 @@
 ### Note
 - Only  For Personal Use and Do not expect something good.
 - Feel free to fix/edit this thing 
+- https://discord.gg/dm96sgkafP
+- https://cracked.io/NamiWoiiii
