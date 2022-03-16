@@ -21,3 +21,9 @@
 - Feel free to fix/edit this thing 
 - https://discord.gg/dm96sgkafP
 - https://cracked.io/NamiWoiiii
+
+### Donate
+- LTC
+   - LSwXv1XA3ozJW3rNnGZ9RzVqFsv3GHzPCi
+- BTC
+   - bc1qrmsa6uew8r7h7t37jrwss4wrh54chxqsc7hss6
