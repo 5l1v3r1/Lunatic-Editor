@@ -1,5 +1,4 @@
-![Discord Banner 2](https://discordapp.com/api/guilds/938383358742921277/widget.png?style=banner2)
-
+![](https://dcbadge.vercel.app/api/shield/423747377506025472)
 ### Features
 
 - Domains Sorter
